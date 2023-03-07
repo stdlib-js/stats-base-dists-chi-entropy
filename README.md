@@ -32,10 +32,14 @@ The [differential entropy][entropy] (in [nats][nats]) for a [chi][chi-distributi
 
 <!-- <equation class="equation" label="eq:chi_entropy" align="center" raw="h\left( X \right) = \ln(\Gamma(k/2)) + {\tfrac{1}{2}}(k\!-\!\ln(2)\!-\!(k\!-\!1)\psi(k/2))" alt="Differential entropy for a chi distribution."> -->
 
-<div class="equation" align="center" data-raw-text="h\left( X \right) = \ln(\Gamma(k/2)) + {\tfrac{1}{2}}(k\!-\!\ln(2)\!-\!(k\!-\!1)\psi(k/2))" data-equation="eq:chi_entropy">
+```math
+h\left( X \right) = \ln(\Gamma(k/2)) + {\tfrac{1}{2}}(k\!-\!\ln(2)\!-\!(k\!-\!1)\psi(k/2))
+```
+
+<!-- <div class="equation" align="center" data-raw-text="h\left( X \right) = \ln(\Gamma(k/2)) + {\tfrac{1}{2}}(k\!-\!\ln(2)\!-\!(k\!-\!1)\psi(k/2))" data-equation="eq:chi_entropy">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/chi/entropy/docs/img/equation_chi_entropy.svg" alt="Differential entropy for a chi distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -201,7 +205,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
