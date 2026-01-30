@@ -69,7 +69,7 @@ where `k > 0` is the degrees of freedom and `Γ` and `Ψ` denote the [gamma][gam
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-entropy@v0.3.0-esm/index.mjs';
 ```
 
 #### entropy( k )
@@ -119,7 +119,7 @@ var v = entropy( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-entropy@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
