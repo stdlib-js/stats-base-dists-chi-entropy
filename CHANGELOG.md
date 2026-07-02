@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-07-02)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5dee19d`](https://github.com/stdlib-js/stdlib/commit/5dee19dbe000c3512c48f5546478b66a41a2a062) - **bench:** use consistent assertions [(#13229)](https://github.com/stdlib-js/stdlib/pull/13229) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 -   [`81fd782`](https://github.com/stdlib-js/stdlib/commit/81fd7822d544bff51fccb618844e07f7edf31e8b) - **bench:** use string interpolation in `stats/base/dists/chi` [(#10171)](https://github.com/stdlib-js/stdlib/pull/10171) _(by Om-A-osc)_
